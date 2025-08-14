@@ -5,9 +5,9 @@
 }
 
 body {
-  background: linear-gradient(135deg, #667eea, #764ba2);
+  background: linear-gradient(135deg, #273884, #c6101d);
   font-family: 'Poppins', sans-serif;
-  color: #fff;
+  color: #b2dd06;
   margin: 0;
   min-height: 100vh;
   display: flex;
@@ -78,15 +78,15 @@ button {
   padding: 12px 25px;
   border: none;
   border-radius: 12px;
-  background: #ff8c00;
+  background: #ed057d;
   font-weight: 700;
   font-size: 1.1rem;
   color: #222;
   cursor: pointer;
-  box-shadow: 0 5px 15px rgba(255, 140, 0, 0.45);
+  box-shadow: 0 5px 15px rgba(7, 6, 5, 0.45);
   transition: background-color 0.3s ease;
 }
 
 button:hover {
-  background-color: #e07b00;
+  background-color: #1acdcd;
 }
