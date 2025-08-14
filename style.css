@@ -5,9 +5,9 @@
 }
 
 body {
-  background: linear-gradient(135deg, #273884, #c6101d);
+  background: linear-gradient(135deg, #e3088f, #f1f3f3);
   font-family: 'Poppins', sans-serif;
-  color: #b2dd06;
+  color: #e0ebdbc6;
   margin: 0;
   min-height: 100vh;
   display: flex;
@@ -17,10 +17,10 @@ body {
 }
 
 .container {
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(184, 128, 153, 0.15);
   padding: 30px 40px;
   border-radius: 15px;
-  box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+  box-shadow: 0 10px 25px rgba(201, 12, 157, 0.3);
   max-width: 420px;
   width: 100%;
   text-align: center;
@@ -42,7 +42,7 @@ h1 {
   text-align: center;
   letter-spacing: 3px;
   background: rgba(0,0,0,0.2);
-  color: #fff;
+  color: #fff9f9;
   user-select: all;
 }
 
@@ -78,12 +78,12 @@ button {
   padding: 12px 25px;
   border: none;
   border-radius: 12px;
-  background: #ed057d;
+  background: #c704d9;
   font-weight: 700;
   font-size: 1.1rem;
-  color: #222;
+  color: #241212;
   cursor: pointer;
-  box-shadow: 0 5px 15px rgba(7, 6, 5, 0.45);
+  box-shadow: 0 5px 15px rgba(237, 18, 175, 0.863);
   transition: background-color 0.3s ease;
 }
 
